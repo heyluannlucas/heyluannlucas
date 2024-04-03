@@ -1,7 +1,7 @@
 <div align="left">
   
 # Hey, me chamo Luann! 🏳‍🌈 <br>
-- 🤸🏼 Tenho 21 anos, amo tecnologia, gatos e Lana del rey
+- 🤸🏼 Tenho 22 anos, amo tecnologia, gatos e Lana del rey
 - 🎓 Graduando em Ciência da computação e Engenharia de software
 - 👨🏻‍💻 Atualmente estudando web development
 <br>
