@@ -3,7 +3,7 @@
 # Hey, me chamo Luann! 🏳‍🌈 <br>
 - 🤸🏼 Tenho 23 anos, amo tecnologia, gatos e Lana del Rey
 - 🎓 Graduando em Ciência da computação e Engenharia de software pela Jala University 
-- 👨🏻‍💻 Atualmente focado web development e testes
+- 👨🏻‍💻 Atualmente focado em web development e testes
 <br>
   
 </div>
