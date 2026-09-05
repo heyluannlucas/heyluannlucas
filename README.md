@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7C6B,50:1F6FEB,100:0D7C6B&height=190&section=header&text=Luann%20Lucas&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20QA%20Engineer%20%C2%B7%20Recife%2C%20Brasil&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Luann Lucas — Software QA Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D7C6B,50:1F6FEB,100:0D7C6B&height=190&section=header&text=Luann%20Lucas&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Software%20QA%20Engineer%20%C2%B7%20Recife%2C%20Brasil&descSize=17&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Luann Lucas · Software QA Engineer" />
 
 <a href="https://www.linkedin.com/in/luann-lucas-b59371236/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=900&color=2EA88A&center=true&vCenter=true&width=780&height=45&lines=Testo+software+com+olhar+de+quem+tamb%C3%A9m+o+constr%C3%B3i.;I+test+software+with+the+eyes+of+someone+who+also+builds+it." alt="Typing SVG" />
@@ -16,9 +16,9 @@
 
 <br>
 
-Formação em desenvolvimento, rotina em Quality Engineering na **Accenture** — o que me deixa desenhar cenário de teste lendo o código, não só a tela.
+Vim do desenvolvimento e hoje trabalho com Quality Engineering na **Accenture**. Desenho cenário de teste lendo o código, não só a tela.
 
-*A developer background applied to Quality Engineering — test design that starts at the code, not at the screen.*
+*I came from development and now work in Quality Engineering at Accenture. I design tests by reading the code, not just the screen.*
 
 <br>
 
@@ -49,18 +49,20 @@ Formação em desenvolvimento, rotina em Quality Engineering na **Accenture** �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=heyluannlucas&show_icons=true&hide_border=true&bg_color=00000000&title_color=2EA88A&icon_color=1F6FEB&text_color=6E7781&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyluannlucas&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2EA88A&text_color=6E7781" alt="Top languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyluannlucas/heyluannlucas/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <img height="200" src="https://raw.githubusercontent.com/heyluannlucas/heyluannlucas/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heyluannlucas/heyluannlucas/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img height="200" src="https://raw.githubusercontent.com/heyluannlucas/heyluannlucas/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Linguagens" />
+</picture>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=heyluannlucas&hide_border=true&background=00000000&stroke=6E7781&ring=2EA88A&fire=1F6FEB&currStreakLabel=2EA88A&sideLabels=6E7781&dates=6E7781&currStreakNum=6E7781&sideNums=6E7781" height="165" alt="Streak" />
 
 <br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=heyluannlucas&hide_border=true&bg_color=00000000&color=2EA88A&line=1F6FEB&point=2EA88A&area=true&area_color=1F6FEB&title_color=2EA88A" width="98%" alt="Activity graph" />
-
-<br>
 
 <img src="https://raw.githubusercontent.com/heyluannlucas/heyluannlucas/output/snake.svg" width="98%" alt="Snake" />
 
